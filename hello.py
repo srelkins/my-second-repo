@@ -1,3 +1,5 @@
 print("My name is shannon")
 print("I was born in July")
 print ("My name is Avantika")
+print ("I was born in January")
+print ("My favorite food is Indian")
